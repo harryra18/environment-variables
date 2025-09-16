@@ -1,5 +1,5 @@
-require('dotenv').config();
-const express = require('express');
+require('dotenv').config(); // load in my .env variables
+const express = require('express'); // import express app
 
 const app = express();
 
